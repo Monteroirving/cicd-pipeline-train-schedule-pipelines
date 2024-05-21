@@ -13,3 +13,5 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+
+My name is Walter Hartwell White. I live at 308 Negra Aroya Lane, Albuquerque, New Mexico, 87104
